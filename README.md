@@ -1,6 +1,5 @@
-# .NET Authentication / Registeration app
-## Codebased
-* Used
+## .NET Authentication / Registeration app
+### Used
 * .Net Core
 * React
 * SQL
